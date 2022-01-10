@@ -1,0 +1,15 @@
+
+body{
+    width: 100%;
+    text-align: center;   
+  }
+
+
+  #video{
+      height: 700px;
+  }
+
+
+@media screen and ( max-width: 1024px ) {
+    #video { width: 200px; }
+    }
